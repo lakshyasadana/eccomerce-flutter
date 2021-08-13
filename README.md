@@ -22,21 +22,13 @@ A powerful Flutter E-Commerce starter template that bootstraps development of yo
 
 ```bash
 # Clone the repo
-git clone https://github.com/Furqankhanzada/flutter_eCommerce_ui_kit.git
+git clone https://github.com/lakshyasadana/eccomerce-flutter.git
 
 # Navigate to clonned folder and Install dependencies
 cd flutter_eCommerce_ui_kit && flutter packages get
 ```
 
-## Looking for Flutter Developer ?
-
-I can translate you idea to Mobile Application. Hire me [Upwork](https://www.upwork.com/fl/muhammadfurqan)
-
-## Contributing
-
-If you find any problems, please [open an issue](https://github.com/Furqankhanzada/flutter_eCommerce_ui_kit/issues/new) or submit a fix as a pull request.
 
 
-## License
 
-[MIT License](LICENSE)
+
